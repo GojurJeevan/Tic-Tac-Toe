@@ -13,15 +13,10 @@ Challenge your friend (or yourself 🤓) in this two-player Tic-Tac-Toe game rig
 - 🔁 Reset and new game options
 - 📱 Fully responsive on all screen sizes
 
-## 🚀 Live Demo
-
-> *Coming soon!* (You can deploy this on GitHub Pages or Netlify)
 
 ## 🛠️ Built With
 
 - **HTML5** - for the structure
 - **CSS3** - for styling and layout
 - **JavaScript (Vanilla)** - for game logic
-
-## 📂 File Structure
 
